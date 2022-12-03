@@ -5,7 +5,7 @@
         public static void Main(string[] args)
         {
             Console.WriteLine("Welcome to LogicalProgram");
-            ReverseNumber.reverseNumber();
+            CouponNo.CheckCouponNumber();
         }
     }
 }
